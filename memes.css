@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+}
+.meme-div{
+    margin: auto;
+    width: 50%;
+    height: 50%;
+}
+.meme-title, .meme-footer{
+    padding: 1em;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    text-align: center;
+}
+.meme-img{
+    margin: auto;
+    max-width: 50%;
+    max-height: 50%;
+    display: block;
+}
+p{
+    color: silver;
+    text-align: center;
+    font-size: 1.2rem;
+}
